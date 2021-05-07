@@ -2,12 +2,12 @@
 	"incitems" : [
 	{
 		"abr": "tornado",
-		"price": 3000,
+		"price": 6001,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "tornados",
-		"price": 4600,
+		"price": 8500,
 		"karmatype": "Bad"
 	},
 	{
@@ -326,31 +326,6 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "hailstorm",
-		"price": 700,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "earthquake",
-		"price": 2000,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "cropsprout",
-		"price": 2000,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "drought",
-		"price": 3000,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "huntingparty",
-		"price": 500,
-		"karmatype": "Neutral"
-	},
-	{
 		"abr": "reviveall",
 		"price": 22664,
 		"karmatype": "Good"
@@ -377,7 +352,7 @@
 	},
 	{
 		"abr": "surgery",
-		"price": 1,
+		"price": 500,
 		"karmatype": "Neutral"
 	},
 	{
@@ -413,6 +388,31 @@
 	{
 		"abr": "backpack",
 		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "hailstorm",
+		"price": 700,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "earthquake",
+		"price": 2000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "cropsprout",
+		"price": 2000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "drought",
+		"price": 3000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "huntingparty",
+		"price": 500,
 		"karmatype": "Neutral"
 	}
 	],
